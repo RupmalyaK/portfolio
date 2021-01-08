@@ -1,0 +1,119 @@
+{
+  "main": {
+    "name":"Rupmalya Kumar",
+    "description":"Programmer by hobby and a developer my profession.",
+    "image":"profilepic.jpg",
+    "bio":"I am a full-stack web developer and I know my way around MERN stack.",
+    "contactmessage":"Let's go out for a coffee and making your dreams come true.",
+    "email": "rupzonthemove@gmail.com",
+    "phone": "(+91)9875532788",
+    "github":"https://github.com/RupmalyaK",
+    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "address":{
+      "street":"43D Nandaram Senstreet",
+      "city":"Kolkata",
+      "state":"West Bengal",
+      "zip": "700005",
+      "country":"India"
+    },
+    "website": "https://drive.google.com/file/d/1KhYwtAnzz6LRoQdFiuUt9a6R851t34xD/view?usp=sharing",
+    "resumedownload":"https://drive.google.com/file/d/1KhYwtAnzz6LRoQdFiuUt9a6R851t34xD/view?usp=sharing",
+    "social":[
+
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/rupmalya-kumar-935aa984/",
+        "className":"fa fa-linkedin"
+      },
+ 
+      {
+        "name":"github",
+        "url":"https://github.com/RupmalyaK",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I am proficient in handling all kinds of business logic of a full-stack app.",
+    "education":[
+      {
+        "school":"FreeCodeCamp & Udemy",
+        "degree":"Online bootcamp.",
+        "graduated":"2018",
+        "description":"I learnt a lot of programming and web development."
+      },
+      {
+        "school":"St. pauls KG & Day School",
+        "degree":"Commerce",
+        "graduated":"2013",
+        "description":"How to make friends and communicate with other people."
+      }
+    ],
+    "work":[
+      {
+        "company":"9too5",
+        "title":"Full-Stack Intern",
+        "years":"07 2020 - 10-2020",
+        "description":"I worked mainly on making UI with React on the front-end and implementing business logic and database in the back-end."
+      }
+    ],
+    "skills":[
+      {
+        "name":"React",
+        "level":"80%"
+      },
+      {
+        "name":"Javascript",
+        "level":"90%"
+      },
+      {
+        "name":"Node JS",
+        "level":"65%"
+      },
+      {
+        "name":"Mongo DB",
+        "level":"50%"
+      },
+      {
+        "name":"Algorithm and Data Structure",
+        "level":"70%"
+      },
+      {
+        "name":"Redux",
+        "level":"80%"
+      },
+      {
+        "name":"HTML and CSS",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"ScanKar",
+        "category":"Digital Ordering System",
+        "image":"scanKar.jpg",
+        "url":"https://scankar.com/"
+      },
+      {
+        "title":"Prepcha",
+        "category":"Learning Management System",
+        "image":"prepcha.jpg",
+        "url":"http://www.prepcha.com/info/"
+      },
+      {
+        "title":"WhatsApp Clone",
+        "category":"A simplified WhatsApp clone(Personal)",
+        "image":"whatsapp.jpg",
+        "url":"https://clone-massenger.herokuapp.com/"
+      },
+      {
+        "title":"Ecommerce Mern Personal Project",
+        "category":"A React based resume website template",
+        "image":"ecommerce.jpg",
+        "url":"https://github.com/RupmalyaK/eccomerce-react"
+      }
+    ]
+  }
+}
